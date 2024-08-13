@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    height:75%;
+    width:75%;
+    border:2px solid #696767;
+    padding:30px 25%;
+}
+.form{
+    border: 2px solid #696767;
+}
+.image{
+    height:100%;
+    width: 100%;
+    border:2px solid #696767;
+}
+img{
+    height:100%;
+    width:100%;
+    border:2px solid #696767;
+}
+p{
+    font-weight: lighter;
+    color:#696767;
+}
